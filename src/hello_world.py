@@ -1,5 +1,6 @@
-print("##############")
-print("¡Hola Aitor!")
-print("¡VIVA ALBANIA!")
-print("##############")
+x=1
+y=2
+z=x+y
+print (z)
+
 
